@@ -1,4 +1,4 @@
-# Jhonathan here =D
+# Jhonathan here :grin:
 
 Cloud & Security Engineer based in New York. I build secure, automated infrastructure.
 
