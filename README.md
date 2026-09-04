@@ -49,4 +49,4 @@ A multi-AZ hybrid DNS architecture using Route 53 Resolver, private hosted zones
 
 ---
 
-*These projects are interconnected — the AD lab connects to the DNS architecture, which feeds into the enterprise landing zone. Each one is a phase of the same hybrid migration story.*
+*These projects are interconnected - the AD lab connects to the DNS architecture, which feeds into the enterprise landing zone. Each one is a phase of the same hybrid migration story.*
